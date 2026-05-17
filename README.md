@@ -20,6 +20,7 @@ cd spig-backend
 Pokrenite aplikaciju preko Gradle wrappera:
 
 Bash
+
    .\gradlew.bat bootRun
 
 2. Pokretanje Frontenda (React + Vite)
@@ -49,6 +50,7 @@ Pozicionirajte se u mapu spig-backend.
 Pokrenite naredbu:
 
 Bash
+
    .\gradlew.bat test
 
 
