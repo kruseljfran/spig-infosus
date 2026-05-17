@@ -48,7 +48,7 @@ Pozicionirajte se u mapu spig-backend.
 
 Pokrenite naredbu:
 
-Bas
+Bash
    .\gradlew.bat test
 
 
