@@ -1,0 +1,21 @@
+# Frontend
+spig-frontend/node_modules/
+spig-frontend/dist/
+spig-frontend/.env*
+spig-frontend/.local
+
+# Backend
+spig-backend/.gradle/
+spig-backend/build/
+spig-backend/out/
+
+# IDE i sistemske datoteke
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
