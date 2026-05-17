@@ -16,6 +16,7 @@ Backend koristi in-memory bazu podataka (H2), što znači da nema potrebe za ins
 Otvorite terminal i uđite u mapu spig-backend:
 
 Bash
+
 cd spig-backend
 Pokrenite aplikaciju preko Gradle wrappera:
 
@@ -29,14 +30,17 @@ Frontend je napravljen pomoću Vite-a. Za pokretanje je potrebno prvo instalirat
 Otvorite novi terminal i uđite u mapu spig-frontend:
 
 Bash
+
 cd spig-frontend
 Instalirajte sve potrebne ovisnosti (ovo treba napraviti samo prije prvog pokretanja):
 
 Bash
+
 npm install
 Pokrenite razvojni server:
 
 Bash
+
 npm run dev
 Frontend će se podići na adresi http://localhost:5173.
 
