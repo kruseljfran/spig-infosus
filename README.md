@@ -20,12 +20,7 @@ cd spig-backend
 Pokrenite aplikaciju preko Gradle wrappera:
 
 Bash
-   # Za Windows:
    .\gradlew.bat bootRun
-   
-   # Za macOS/Linux:
-   ./gradlew bootRun
-Backend će se pokrenuti na portu 8080.
 
 2. Pokretanje Frontenda (React + Vite)
 Frontend je napravljen pomoću Vite-a. Za pokretanje je potrebno prvo instalirati sve pakete i tek onda pokrenuti razvojni server.
@@ -53,12 +48,9 @@ Pozicionirajte se u mapu spig-backend.
 
 Pokrenite naredbu:
 
-Bash
-   # Za Windows:
+Bas
    .\gradlew.bat test
-   
-   # Za macOS/Linux:
-   ./gradlew test
+
 
 4. Pristup bazi podataka (H2 Console)
 Pošto je baza u memoriji, podaci se mogu vizualno pregledavati kroz web sučelje dok god je backend upaljen.
